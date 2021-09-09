@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "anhiuemNguyenThanhThao",
-    introTitle: 'Em iu',
+    introTitle: 'Thanh Thảo à',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bae <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu babi nhiều nhiều 😘😘',
-    messDesc: 'Anh ở đây để xoa dịu đi những nỗi đau khum dáng có của em:3.',
+    messDesc: 'Được gặp em và iu em là điều tuyệt vời nhất xảy đến với anh,ta iu :3.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
